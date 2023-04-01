@@ -6,11 +6,12 @@
 To run flask application 
 
 ```
-python app.py
+python application.py
 ```
 
 
 To access your flask application open new tab in and paste the url:
 ```
 http://192.168.1.36:5000
+http://192.168.1.36:5000/predictdata
 ```
